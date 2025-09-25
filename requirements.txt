@@ -1,0 +1,9 @@
+python-telegram-bot>=21,<22
+httpx
+feedparser
+schedule
+huggingface_hub
+langdetect
+python-dotenv
+requests
+
